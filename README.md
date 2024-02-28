@@ -1,5 +1,6 @@
 # Szkolenie GIT
 
+Data szkolenia: 28.02.2024 18:00
 
 ## Linki
 
